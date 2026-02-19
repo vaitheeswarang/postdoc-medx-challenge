@@ -1,0 +1,9 @@
+env/
+**/__pycache__/
+**/*.pyc
+**/.ipynb_checkpoints/
+**/.DS_Store
+**/models/*.pt
+**/models/*.pth
+**/task3_retrieval/index_store/
+**/reports/

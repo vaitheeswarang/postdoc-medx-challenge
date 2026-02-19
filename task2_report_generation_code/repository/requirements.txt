@@ -1,0 +1,12 @@
+numpy
+pillow
+tqdm
+scikit-learn
+matplotlib
+medmnist
+torch
+torchvision
+transformers>=4.41.0
+accelerate>=0.30.0
+sentencepiece
+protobuf

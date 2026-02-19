@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers>=4.40,<5
+accelerate
+faiss-cpu
+numpy
+pillow
+matplotlib
+tqdm
+scikit-learn
+medmnist
